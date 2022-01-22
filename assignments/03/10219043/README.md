@@ -62,5 +62,5 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
 Kode di atas berfungsi untuk
-+ 
-+  
++ Menghasilkan output shapes berupa white medium square dengan jumlah shapes berdasarkan input string yang dipecah
++ Menghasilkan output shapes berupa black medium square dengan jumlah shapes berdasarkan input string yang dipecah
