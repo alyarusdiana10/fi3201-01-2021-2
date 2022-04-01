@@ -107,7 +107,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
 ```
- y = np.sin(np.pi * x) * np.cos(np.pi * 0.01 * i)
+ y = np.sin(np.pi * x) * np.cos(np.pi * i)
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave stationary]()
