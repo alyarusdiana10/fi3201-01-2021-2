@@ -84,9 +84,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 Potongan kode yang perlu disisipkan adalah
 ```
  y = np.sin(np.pi*x - np.pi*i)
+dan mengubah option = 1 menjadi option = 0 pada line 58 
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](https://github.com/alyarusdiana10/fi3201-01-2021-2/blob/main/assignments/04/10219043/wave%20to%20right_10219043.gif)
 
 
 ## question 3
@@ -96,9 +97,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 Potongan kode yang perlu disisipkan adalah
 ```
  y = np.sin(np.pi*x + np.pi*i)
+dan mengubah option = 1 menjadi option = 0 pada line 58 
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
+![gif file from simulation wave to left](https://github.com/alyarusdiana10/fi3201-01-2021-2/blob/main/assignments/04/10219043/wave%20to%20left_10219043.gif)
 
 
 ## question 4
@@ -108,6 +110,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 Potongan kode yang perlu disisipkan adalah
 ```
  y = np.sin(np.pi * x) * np.cos(np.pi * i)
+dan mengubah option = 1 menjadi option = 0 pada line 58 
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![gif file from simulation wave stationary](https://github.com/alyarusdiana10/fi3201-01-2021-2/blob/main/assignments/04/10219043/wave%20stationer_10219043.gif)
